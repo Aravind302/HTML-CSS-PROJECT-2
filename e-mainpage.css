@@ -1,0 +1,172 @@
+		.dabba{
+			margin : 30px;
+			background-color: cyan;
+			width :100%;
+			height:400px;
+			border : solid;
+			border-width: 5px;
+			border-color: green;
+			border-radius: 20px;
+			box-shadow : 0px 0px 10px orange;			
+		}
+		.details{
+			background-color: violet;
+			height: 100px;
+			width: 80%;
+			margin:19px;
+			margin-top: 26px;
+			margin-bottom:15px;
+			margin-right: 30px;
+			margin-left: 30px;
+			border-width: 20px;
+			border-radius: 10px;
+			border:solid;
+			border-color:steelblue ;
+			align-content: center;
+			text-align: center;
+		}
+		.img{
+			background-color: violet;
+			height: 240px;
+			width: 80%;
+			margin:10px;
+			margin-bottom:26px;
+			margin-right: 25px;
+			margin-left: 30px;
+			border-width: 20px;
+			border-radius: 10px;
+			border:solid;
+			border-color:steelblue ;
+			align-content: center;
+			text-align: center;
+		}
+		.img1{
+		height : 100%;
+		width : 100%;
+		border-radius: 20px;
+	    }
+
+		.s1{
+			text-decoration: line-through;
+		}
+		.offer{
+			background-color: red;
+			border: solid;
+			border-radius:60px;
+			border-color: white;
+			height: 20px;
+			width: 13%;
+        }
+        .offer{
+        	position: relative;
+        	height : 50px;
+        	width :50px;
+        	padding : 20px;
+        	top : 85px;
+        	left : -20px;
+        	text-align: center;
+        	align-content : center;
+        	color: white;
+        }
+		.a{
+			background-image:url("https://img.freepik.com/premium-photo/toy-shopping-cart-with-boxes-blue-background_339191-217.jpg");
+			animation-name: aravindakki;
+			animation-duration: 4s;
+			animation-delay: 2s;
+			animation-iteration-count: infinite;
+
+		}
+		@keyframes aravindakki{
+			from{
+				background-image: url("https://img.freepik.com/free-photo/shopping-cart-with-wooden-elements_23-2148879396.jpg");
+			}
+			to{
+				background-image: url("https://img.freepik.com/premium-photo/toy-shopping-cart-with-boxes-blue-background_339191-217.jpg");
+			}
+
+		}
+		.b{
+			text-align: center;
+			align-content: center;
+			font-family: verdana;
+			font-size: 40px;
+			padding: 2px;
+			color: red;
+			font-weight: bold;
+			position: absolute;
+			top: 90px;
+			left: 30%;
+		}
+		.c{
+			padding: 2px;
+		}
+		.aa{
+			border: solid;
+			border-radius: 20px;
+			border-width: 10px;
+			border-color: violet;
+			height: 350px;
+			width: 450px;
+			position: absolute;
+			left: 40%;
+			background-color: yellowgreen;
+			animation-name: aravind;
+			animation-duration: 1s;
+			animation-delay: 0.2s;
+			animation-iteration-count: infinite;
+
+		}
+		@keyframes aravind{
+			from{
+				background-color: blue;
+			}
+			to{
+				background-color: yellowgreen;
+			}
+		}
+		.a1{
+			font-weight: bold;
+			color: orangered;
+			text-decoration: underline;
+			font-size: 25px;
+
+		}
+		.a2{
+			font-weight: bold;
+			color: orangered;
+			text-decoration: underline;
+			font-size: 25px;
+
+		}
+		.h1{
+			font-size: 30px;
+			font-weight: bold;
+			color: blueviolet;
+			position: absolute;
+			left: 46%;
+			top: 311%;
+			
+		}
+		.h2{
+			font-size: 22px;
+			color: black;
+			font-weight: bold;
+		}
+		.h3{
+			font-size: 22px;
+			color: black;
+			font-weight: bold;
+		}
+		.nav{
+			font-size: 22px;
+	        font-family: aerial;
+	        font-weight: bold;
+	        text-decoration: none;
+	        position: absolute;
+	        right: 110px;
+	        top: 5%;
+	        display: grid;
+	        grid-template-columns: 30% 35% 40% 35%;
+
+		}
+

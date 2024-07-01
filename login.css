@@ -1,0 +1,47 @@
+.a{
+	background-color:skyblue;
+	text-align: center;
+	align-content: center;
+	background-image: url("https://img.freepik.com/premium-vector/ecommerce-online-shopping-marketing-concept-vector-stock-illustration_618588-583.jpg");
+	height: 100%;
+	width: 100%;
+
+}
+.b{
+	font-size: 25px;
+	font-family: times new roman;
+	height:100%;
+	width:100%;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	align-content: center;
+	position: relative;
+	top: 175px;
+	left: -105px;
+	color: yellowgreen;
+}
+.c{
+
+	font-size: 40px;
+	font-family: times new roman;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	align-content: center;
+	color:red;
+	position: absolute;
+	top: 10px;
+	left: 28%;
+	text-decoration: underline;
+}
+.f{
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: green;
+	width:140px;
+	height: 35px;
+	border: solid;
+	border-color: orangered;
+}

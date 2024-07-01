@@ -1,0 +1,18 @@
+body{
+	background-image:url("https://img.favpng.com/18/20/20/e-commerce-logo-business-web-design-png-favpng-iXirGfeACUMaLCfa7KaDwsyL5.jpg");
+}
+.a{
+	position: absolute;
+	top: 120pxpx;
+}
+.b{
+	position: absolute;
+	top: 200px;
+}
+.a1{
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	align-content: center;
+	text-decoration: underline;
+}

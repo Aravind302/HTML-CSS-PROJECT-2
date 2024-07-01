@@ -1,0 +1,46 @@
+.a{
+	text-align: center;
+	align-content: center;
+	background-image: url("https://t4.ftcdn.net/jpg/06/22/39/91/360_F_622399137_jlEDsEN0pUMZA6jMKShRoq2po69QBQXj.jpg");
+	width: 100%;
+	height: 100%;
+	animation-name: aravindakki;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: infinite;
+}
+.b{
+	font-size:25px;
+	font-family: times new roman;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	align-content: center;
+	position:absolute;
+	top:0;
+	left: 23%;
+	text-decoration: underline;
+	color:yellow;
+
+}
+.c{
+	font-size:22px;
+	font-family: verdana;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	align-content: center;
+	color: white;
+	position: absolute;
+	top: 150px;
+	left: 23%;
+	height:60%;
+	width:auto;
+}
+.aa{
+	font-size: 22px;
+	font-weight: bold;
+	border: solid;
+	color: white;
+	background-color:green;
+}
